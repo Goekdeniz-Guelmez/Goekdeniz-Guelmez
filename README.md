@@ -14,6 +14,11 @@ I'm an aspiring AI & ML enthusiast, currently honing my skills in system integra
 - Advanced ML algorithms
 - Smart home automation using AI
 
+| Pull Request Size |
+| ----------- |
+|<img src="Goekdeniz-Guelmez/Goekdeniz-Guelmez/performance_stats.png" />|
+
+
 ## My private goal is to create JOSIE.
 ### My own private AI Multimodal Assistant that can...
 - Autonomously control and manage my Smart home with sensors, cameras, LEDs, and all the other products,
