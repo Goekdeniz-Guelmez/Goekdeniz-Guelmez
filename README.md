@@ -31,8 +31,8 @@ I'm an aspiring AI & ML enthusiast, currently honing my skills in system integra
 - Supervised Machine Learning: Regression and Classification
 
 ## 🤝 Let's Connect!
-- [LinkedIn](YourLinkedInURL)
-- [Twitter](YourTwitterURL)
+- [LinkedIn]([YourLinkedInURL](https://twitter.com/ActuallyIsaak))
+- [Twitter (X)]([YourTwitterURL](https://twitter.com/ActuallyIsaak))
 
 ## 📚 My Projects
 Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
