@@ -3,6 +3,9 @@
 ## 🚀 About Me
 I'm an aspiring AI & ML enthusiast, currently honing my skills in system integration and software development. Passionate about leveraging technology to create innovative solutions.
 
+## 📚 My Projects
+Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
+
 ## 🎯 My Interests
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -14,9 +17,24 @@ I'm an aspiring AI & ML enthusiast, currently honing my skills in system integra
 - Advanced ML algorithms
 - Smart home automation using AI
 
-| Pull Request Size | Collaborative Productivity - Last 28 days |
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+| Pull Request Size |
+| ----------- |
+|<img src="https://github-readme-stats.vercel.app/api?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" />|
+
+| Pull Request Size |
+| ----------- |
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" />|
+
+
+| Pull Request Size | Star History |
 | ----------- | ----------- |
-|<img src="https://raw.githubusercontent.com/Goekdeniz-Guelmez/Goekdeniz-Guelmez/main/performance_stats.png" />|<img src="https://raw.githubusercontent.com/Goekdeniz-Guelmez/Goekdeniz-Guelmez/main/star_history.png" />|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goekdeniz-Guelmez&theme=dark&hide_border=True&image_size=auto&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=&image_size=auto" />|
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 ## My private goal is to create JOSIE.
@@ -46,12 +64,64 @@ I'm an aspiring AI & ML enthusiast, currently honing my skills in system integra
 - Advanced Learning Algorithms
 - Supervised Machine Learning: Regression and Classification
 
-## 🤝 Let's Connect!
+**I'm an Early 🐤** 
+```text
+🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
+🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
+🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
+Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
+Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Python                   15 hrs 39 mins      ████████████████████░░░░░   82.87% 
+Docker                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Git Config               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+
+🔥 Editors: 
+PyCharm                  18 hrs 53 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
+Mac                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
+Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+
+```
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 - [LinkedIn](https://www.linkedin.com/in/gökdeniz-gülmez)
 - [Twitter (X)](https://twitter.com/ActuallyIsaak)
-
-## 📚 My Projects
-Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
 
 ---
 ⭐️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
