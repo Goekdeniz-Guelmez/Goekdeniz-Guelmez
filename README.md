@@ -14,9 +14,9 @@ I'm an aspiring AI & ML enthusiast, currently honing my skills in system integra
 - Advanced ML algorithms
 - Smart home automation using AI
 
-| Pull Request Size |
-| ----------- |
-|<img src="Goekdeniz-Guelmez/Goekdeniz-Guelmez/performance_stats.png" />|
+| Pull Request Size | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://raw.githubusercontent.com/Goekdeniz-Guelmez/Goekdeniz-Guelmez/main/performance_stats.png" />|<img src="https://raw.githubusercontent.com/Goekdeniz-Guelmez/Goekdeniz-Guelmez/main/star_history.png" />|
 
 
 ## My private goal is to create JOSIE.
