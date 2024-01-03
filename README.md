@@ -120,11 +120,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 - [LinkedIn](https://www.linkedin.com/in/gökdeniz-gülmez)
 - [Twitter (X)](https://twitter.com/ActuallyIsaak)
