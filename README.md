@@ -63,9 +63,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - Advanced Learning Algorithms
 - Supervised Machine Learning: Regression and Classification
 
-## 📚 Currently learning these Coursera Courses
-
-**I'm an Owl 🐤** 
+**I'm an Night Owl 🐤** 
 ```text
 🌃 Evening   164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
 🌙 Night     159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
