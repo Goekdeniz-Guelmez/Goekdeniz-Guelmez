@@ -56,14 +56,14 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - Building Deep Learning Models with TensorFlow (96%)
 - AI Capstone Project with Deep Learning (100%)
 - Machine Learning with Python (91%)
-
-## 📚 Currently learning these Coursera Courses
 - Computer Science: Algorithms, Theory, and Machines
 - Linear Algebra for Machine Learning and Data Science
 - Probability & Statistics for Machine Learning & Data Science
 - Unsupervised Learning, Recommenders, Reinforcement Learning
 - Advanced Learning Algorithms
 - Supervised Machine Learning: Regression and Classification
+
+## 📚 Currently learning these Coursera Courses
 
 **I'm an Owl 🐤** 
 ```text
