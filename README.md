@@ -32,8 +32,6 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goekdeniz-Guelmez&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" /><br><br>
 
-<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /><br><br>
-
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
