@@ -21,11 +21,6 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" /><br><br>
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" /><br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goekdeniz-Guelmez&theme=dark&hide_border=True&image_size=auto&image_size=auto" /><br><br>
