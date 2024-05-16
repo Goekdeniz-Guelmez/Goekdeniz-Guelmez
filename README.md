@@ -1,7 +1,7 @@
 # Hello, I'm Gökdeniz Gülmez 👋
 
 ## 🚀 About Me
-I'm an aspiring AI & ML enthusiast, currently honing my skills in system integration and software development. Passionate about leveraging technology to create innovative solutions.
+I'm an aspiring AI & ML researcher, currently honing my skills in system integration and software development. Passionate about leveraging technology to create innovative solutions.
 
 ## 📚 My Projects
 Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
