@@ -60,7 +60,6 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 - [LinkedIn](https://www.linkedin.com/in/gökdeniz-gülmez)
-- [Twitter (X)](https://twitter.com/ActuallyIsaak)
 
 ---
 ⭐️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
