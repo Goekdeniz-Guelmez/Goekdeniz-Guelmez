@@ -20,12 +20,23 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" /><br><br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goekdeniz-Guelmez&theme=dark&hide_border=True&image_size=auto&image_size=auto" /><br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goekdeniz-Guelmez&&theme=github-compact" alt="Gökdeniz Gülmez's github activity graph"/>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goekdeniz-Guelmez&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" /><br><br>
+<br><br>
+
+<p align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goekdeniz-Guelmez&theme=dark&hide_border=True&image_size=auto&image_size=auto" /></p>
+
+<br><br>
+
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=Goekdeniz-Guelmez&theme=algolia&column=-1" alt="Gökdeniz Gülmez" /></a> </p>
+<hr/>
 
 </div>
 
