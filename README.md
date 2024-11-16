@@ -41,7 +41,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
 
-## My private goal is to create J.O.S.I.E.v4o.
+## My private goal is to create J.O.S.I.E.
 ### My own private smart home management MLLM Assistant that can...
 - Autonomously control and manage my Smart home with sensors, cameras, LEDs, and all the other products.
 - Calling Tools.
