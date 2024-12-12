@@ -29,8 +29,10 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 <br><br>
 
 <p align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goekdeniz-Guelmez&theme=dark&hide_border=True&image_size=auto&image_size=auto" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Goekdeniz-Guelmez&theme=algolia&column=-1" alt="Gökdeniz Gülmez" /></a> </p>
+<hr/>
 
+</div>
 <br><br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
