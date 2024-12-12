@@ -33,12 +33,6 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 <br><br>
 
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=Goekdeniz-Guelmez&theme=algolia&column=-1" alt="Gökdeniz Gülmez" /></a> </p>
-<hr/>
-
-</div>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
 
 ## My private goal is to create J.O.S.I.E.
@@ -53,7 +47,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 ---
 
-## 🏆 Coursera Certificates
+## 🏆 Certifications
 - Introduction to Deep Learning & Neural Networks with Keras
 - Deep Neural Networks with PyTorch
 - Introduction to Computer Vision and Image Processing
@@ -66,6 +60,10 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - Unsupervised Learning, Recommenders, Reinforcement Learning
 - Advanced Learning Algorithms
 - Supervised Machine Learning: Regression and Classification
+- CompTIA A+
+
+## 🏆 Certifications I'm completing
+- Microsoft Certified: Azure AI Engineer Associate
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
