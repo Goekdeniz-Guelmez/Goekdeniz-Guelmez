@@ -1,20 +1,20 @@
 # Hello, I'm Gökdeniz Gülmez 👋
 
 ## 🚀 About Me
-Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML & Automations engineer at work, I'm driven to leverage technology to craft innovative solutions that make a real impact.
+Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML engineer at work. I'm a contributer for [mlx-examples](https://github.com/ml-explore/mlx-examples). I Added support for MiniCPM, Mamba version 1 (version 2 is comming) and support for full-fine-tuning, and wil go on.
 
 ## 📚 My Projects
 Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
 
 ## 🎯 My Interests
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🎵 Violin - Currently practicing Bach and more
+- 🤖 Artificial Intelligence.
+- 🧠 Machine Learning.
+- 🎵 Violin - Currently practicing Niccolò Paganini, bach and more.
 - 🖌️ Occasionally, I dabble in painting.
 - 📺 Avid anime fan, always ready for a good series recommendation.
 
 ## 🌱 I’m currently perfecting...
-- Autonomous Smart home automation using MLLM (Project J.O.S.I.E.v4o).
+- Autonomous Smart home automation using Real-Time, Multi-Modal Model. capable text-audio-vision to text-audio (Project J.O.S.I.E.v4o).
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -40,11 +40,15 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 ## My private goal is to create J.O.S.I.E.
 ### My own private smart home management MLLM Assistant that can...
 - Autonomously control and manage my Smart home with sensors, cameras, LEDs, and all the other products.
-- Calling Tools.
+- Tool calling capabilies.
+- Raw audio input with normal user(s) speech and other sounds like (fire, etc.).
+- Capable of understanding videos and images (e.g. security cameras).
+- Capable of outputting natural assistant audio speech and Text (like GPT4-o).
+- Can be Real-Time and Text only like GPT4-o.
 - Updating itself Autonomously.
-- Having a long-/short-term Memory, and even updating it.
-- M-2-M.
-- Starting a conversation by itself.
+- Having a long-/short-term Memory, and even updating it autonimously.
+- Real-Time-full-duplex-Multi-Modal-Model
+- Starting a conversation by itself (She donsn't need special user and assistant turns).
 - And much more...]
 
 ---
@@ -63,6 +67,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - Advanced Learning Algorithms
 - Supervised Machine Learning: Regression and Classification
 - CompTIA A+
+... 30 others, and counting.
 
 ## 🏆 Certifications I'm completing
 - Microsoft Certified: Azure AI Engineer Associate
