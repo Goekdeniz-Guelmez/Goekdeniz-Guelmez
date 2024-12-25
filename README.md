@@ -8,7 +8,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 ## 🎯 My Interests
 - 🤖 Artificial Intelligence.
-- 🧠 Machine Learning.
+- 🧠 Machine and Deep Learning.
 - 🎵 Violin - Currently practicing Niccolò Paganini, bach and more.
 - 🖌️ Occasionally, I dabble in painting.
 - 📺 Avid anime fan, always ready for a good series recommendation.
