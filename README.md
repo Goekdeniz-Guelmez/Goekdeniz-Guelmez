@@ -10,7 +10,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - 🤖 Artificial Intelligence.
 - 🧠 Machine and Deep Learning.
 - 🎵 Violin - Currently practicing Niccolò Paganini, bach and more.
-- 🖌️ Occasionally, I dabble in painting.
+- 🖌️ Occasionally, I dabble in painting and photography.
 - 📺 Avid anime fan, always ready for a good series recommendation.
 
 ## 🌱 I’m currently perfecting...
