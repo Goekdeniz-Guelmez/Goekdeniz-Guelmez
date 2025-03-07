@@ -1,7 +1,7 @@
 # Hello, I'm Gökdeniz Gülmez 👋
 
 ## 🚀 About Me
-Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML engineer at work. I'm a contributer for [mlx-examples](https://github.com/ml-explore/mlx-examples). I Added support for MiniCPM, Mamba version 1 (version 2 is comming) and support for full-fine-tuning, and wil go on.
+Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML engineer at work. I'm a contributer for [mlx-examples](https://github.com/ml-explore/mlx-examples). I Added support for multible LLM architectures and training algorythms. Don't beleieve me? I am listed in the [acknowledgments](https://github.com/ml-explore/mlx-examples/blob/main/ACKNOWLEDGMENTS.md#Individual-Contributors) in mlx-lm.
 
 ## 📚 My Projects
 Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
