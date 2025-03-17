@@ -1,7 +1,7 @@
 # Hello, I'm Gökdeniz Gülmez 👋
 
 ## 🚀 About Me
-Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML engineer at work. I'm a contributer for [mlx-examples](https://github.com/ml-explore/mlx-examples). I Added support for multible LLM architectures and training algorythms. Don't beleieve me? I am listed in the [acknowledgments](https://github.com/ml-explore/mlx-examples/blob/main/ACKNOWLEDGMENTS.md#Individual-Contributors) in mlx-lm.
+Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML engineer at work. I'm a contributer for [mlx-examples](https://github.com/ml-explore/mlx-examples) and [mlx-lm](https://github.com/ml-explore/mlx-lm). I Added support for multible LLM architectures and training algorythms. Don't beleieve me? I am listed in the [official ACKNOWLEDGMENTS](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) in mlx-lm.
 
 ## 📚 My Projects
 Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
