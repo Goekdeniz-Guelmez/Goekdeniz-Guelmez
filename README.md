@@ -49,7 +49,7 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - Having a long-/short-term Memory, and even updating it autonimously.
 - Real-Time-full-duplex-Multi-Modal-Model
 - Starting a conversation by itself (She donsn't need special user and assistant turns).
-- And much more...]
+- And much more...
 
 ---
 
