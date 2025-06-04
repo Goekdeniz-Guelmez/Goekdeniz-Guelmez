@@ -78,4 +78,4 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - [LinkedIn](https://www.linkedin.com/in/gökdeniz-gülmez)
 
 ---
-⭐️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
+❤️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
