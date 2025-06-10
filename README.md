@@ -74,5 +74,4 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
----
 ❤️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
