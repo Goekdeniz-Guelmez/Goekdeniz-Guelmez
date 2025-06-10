@@ -69,9 +69,6 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 - CompTIA A+
 ... 30 others, and counting.
 
-## 🏆 Certifications I'm completing
-- Microsoft Certified: Azure AI Engineer Associate
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ❤️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
