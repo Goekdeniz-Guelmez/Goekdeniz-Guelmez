@@ -74,8 +74,5 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-- [LinkedIn](https://www.linkedin.com/in/gökdeniz-gülmez)
-
 ---
 ❤️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
