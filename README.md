@@ -1,17 +1,55 @@
 # Hello, I'm Gökdeniz Gülmez 👋
 
 ## 🚀 About Me
-Hi there, I'm Gökdeniz Gülmez. A passionate AI & ML researcher in my free time and a skilled ML engineer at work. I'm a contributer for [mlx-examples](https://github.com/ml-explore/mlx-examples) and [mlx-lm](https://github.com/ml-explore/mlx-lm). I am also creator of the [MLX-LM-LORA](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) package alowing you to train full production ready model all on Apple Silicon. Also am the creator of the [MLX-KAN](https://github.com/Goekdeniz-Guelmez/mlx-kan), and [Local NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) packages too. I Added support for multible LLM architectures and training algorythms. Don't beleieve me? I am listed in the [official acknowledgements](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) in mlx-lm.
+
+Hey, I’m Gökdeniz Gülmez — an ML researcher and engineer. When I’m not building production systems, I’m deep in the MLX ecosystem, contributing to cutting-edge tooling for Apple Silicon.
+
+I'm a contributor to [mlx-examples](https://github.com/ml-explore/mlx-examples) and [mlx-lm](https://github.com/ml-explore/mlx-lm), officially acknowledged by the MLX team — [check here](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) if you don’t believe me.
+
+### 📦 Creator of:
+
+* [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train models natively on Apple Silicon
+* [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
+* [**Local NotebookLM**](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM): Run your own "NotebookLM" locally with PDF context
+
+### 🧠 What I’ve built into MLX-LM:
+
+* Support for multiple LLM architectures, and training features like:
+
+  * OpenBMB's MiniCPM and MiniCPM3
+  * Kyutai's Helium
+  * State-Space's Mamba v1
+  * Z.ai & THUKEG's GLM4
+  * Allenai's OLMoE
+  * Full-fine-tuning
+  * Reporting training metrics to WandB (Weights & Biases)
+  * Multiple Optimizers to choose for training
 
 ## 📚 My Projects
-Here you'll find a variety of projects showcasing my journey in AI and ML. From beginner's experiments to sophisticated models.
+
+A mix of serious deep learning research and fun, experimental tools. Expect anything from multimodal LLMs to dataset labeling UIs and decentralized training methods.
 
 ## 🎯 My Interests
-- 🤖 Artificial Intelligence.
-- 🧠 Machine and Deep Learning.
-- 🎵 Violin - Currently practicing Niccolò Paganini, bach and more.
-- 🖌️ Occasionally, I dabble in painting and photography.
-- 📺 Avid anime fan, always ready for a good series recommendation.
+
+* 🤖 Artificial & General Intelligence
+* 🧠 Deep Learning, Transformer Architectures, LoRA magic
+* 🎻 Violin — Currently practicing Paganini and Bach
+* 🖌️ Occasionally sketching or doing photography for inspiration
+* 📺 Huge anime fan (yes, I *have* seen *Berserk*)
+* 🎮 Trying to code smarter than I play games (spoiler: I don't)
+
+## 🌱 Currently Building:
+
+### **J.O.S.I.E. v4o** — my vision for an all-in-one personal assistant
+
+A Real-Time, Full-Duplex, Multimodal Model that can:
+
+* Control my smart home (sensors, cameras, LEDs, etc.) autonomously
+* Understand text, images, videos, *and* raw audio (like Whisper + GPT-4o but better)
+* Output natural speech & engage in open-ended, real-time convos
+* Self-update its memory and tools
+* Be fully local, private, and offline-first
+* Think and act like an autonomous agent with personality
 
 ## 🌱 I’m currently perfecting...
 - Autonomous Smart home automation using Real-Time, Multi-Modal Model. capable text-audio-vision to text-audio (Project J.O.S.I.E.v4o).
