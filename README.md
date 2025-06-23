@@ -14,7 +14,7 @@ I'm a contributor to [mlx-examples](https://github.com/ml-explore/mlx-examples) 
 
 ### 🧠 What I’ve built into MLX-LM:
 
-* Support for multiple LLM architectures, and training features like:
+Support for multiple LLM architectures, and training features like:
 
   * OpenBMB's MiniCPM and MiniCPM3
   * Kyutai's Helium
