@@ -22,6 +22,8 @@ Support for multiple LLM architectures, and training features like:
   * State-Space's Mamba v1
   * Z.ai & THUKEG's GLM4
   * Allenai's OLMoE
+  * Rednote dots.llm1
+  * Baisu's Ernie4.5 MoE
   * Full-fine-tuning
   * Reporting training metrics to WandB (Weights & Biases)
   * Multiple Optimizers to choose for training
