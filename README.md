@@ -4,7 +4,7 @@
 
 Hey, I’m Gökdeniz Gülmez — an ML researcher and engineer. When I’m not building production systems, I’m deep in the MLX ecosystem, contributing to cutting-edge tooling for Apple Silicon.
 
-I'm a contributor to [mlx-examples](https://github.com/ml-explore/mlx-examples) and [mlx-lm](https://github.com/ml-explore/mlx-lm), officially acknowledged by the MLX team — [check here](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) if you don’t believe me.
+I'm a contributor to [mlx-examples](https://github.com/ml-explore/mlx-examples), [mlx-lm](https://github.com/ml-explore/mlx-lm), and [mlx](https://github.com/ml-explore/mlx), officially acknowledged by the MLX team — check here for [mlx-examples](https://github.com/ml-explore/mlx-examples/blob/main/ACKNOWLEDGMENTS.md), [mlx-lm](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) or [mlx](https://github.com/ml-explore/mlx/blob/main/ACKNOWLEDGMENTS.md) if you don’t believe me.
 
 ### 📦 Creator of:
 
