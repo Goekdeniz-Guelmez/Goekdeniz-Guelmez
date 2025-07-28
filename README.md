@@ -39,7 +39,6 @@ A mix of serious deep learning research and fun, experimental tools. Expect anyt
 * 🎻 Violin — Currently practicing Paganini and Bach
 * 🖌️ Occasionally sketching or doing photography for inspiration
 * 📺 Huge anime fan (yes, I *have* seen *Berserk*)
-* 🎮 Trying to code smarter than I play games (spoiler: I don't)
 
 ## 🌱 Currently Building:
 
