@@ -42,7 +42,7 @@ A mix of serious deep learning research and fun, experimental tools. Expect anyt
 
 ## 🌱 Currently Building:
 
-### **J.O.S.I.E. v4o** — my vision for an all-in-one personal assistant
+### **J.O.S.I.E.-Home** — my vision for an all-in-one personal assistant
 
 A Real-Time, Full-Duplex, Multimodal Model that can:
 
