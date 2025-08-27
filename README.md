@@ -53,8 +53,10 @@ A Real-Time, Full-Duplex, Multimodal Model that can:
 * Be fully local, private, and offline-first
 * Think and act like an autonomous agent with personality
 
-## 🌱 I’m currently perfecting...
-- Autonomous Smart home automation using Real-Time, Multi-Modal Model. capable text-audio-vision to text-audio (Project J.O.S.I.E.v4o).
+## 🌱 I’m currently working on...
+- Autonomous Smart home automation using a Real-Time, Multi-Modal-Large-Language-Model. capable text-audio-vision to text-audio (Project J.O.S.I.E.-Home).
+- A secret new ML theorem.
+- My gabliteration Paper
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -78,7 +80,7 @@ A Real-Time, Full-Duplex, Multimodal Model that can:
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
 
 ## My private goal is to create J.O.S.I.E.
-### My own private smart home management MLLM Assistant that can...
+### My own private smart home management Multi-Modal-Large-Language-Model Assistant that can...
 - Autonomously control and manage my Smart home with sensors, cameras, LEDs, and all the other products.
 - Tool calling capabilies.
 - Raw audio input with normal user(s) speech and other sounds like (fire, etc.).
