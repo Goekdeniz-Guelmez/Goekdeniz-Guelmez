@@ -70,13 +70,6 @@ A Real-Time, Full-Duplex, Multimodal Model that can:
 
 <br><br>
 
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=Goekdeniz-Guelmez&theme=algolia&column=-1" alt="Gökdeniz Gülmez" /></a> </p>
-<hr/>
-
-</div>
-<br><br>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
 
 ## My private goal is to create J.O.S.I.E.
