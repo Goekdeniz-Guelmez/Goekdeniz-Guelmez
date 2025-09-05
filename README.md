@@ -17,14 +17,20 @@ I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-example
 
 Support for multiple LLM architectures, and training features like:
 
-  * OpenBMB's MiniCPM and MiniCPM3
-  * Kyutai's Helium
-  * State-Space's Mamba v1
-  * Z.ai & THUKEG's GLM4
-  * Allenai's OLMoE
-  * Rednote dots.llm1
-  * Baisu's Ernie4.5 MoE
-  * Full-fine-tuning
+  * OpenBMB's MiniCPM and MiniCPM3,
+  * Kyutai's Helium,
+  * State-Space's Mamba v1 and Mamb v2,
+  * Z.ai & THUKEG's GLM4,
+  * Rednote dots.llm1,
+  * Baisu's Ernie4.5 MoE,
+  * inclusionAI's Bailing MoE e.g. Ling-family,
+  * IBM's Granite MoE,
+  * Meituan's LongCat,
+  * Nvidia's Nemotron H,
+  * Swiss-AI's Apertus,
+  * Allenai's OLMoE,
+  * Full Weight Fine-Tuning,
+  * Support for the Muon optimize (both mlx-lm and mlx),
   * Reporting training metrics to WandB (Weights & Biases)
   * Multiple Optimizers to choose for training
 
