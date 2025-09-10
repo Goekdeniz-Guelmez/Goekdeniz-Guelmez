@@ -13,7 +13,7 @@ I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-example
 * [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
 * [**Local NotebookLM**](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM): Run your own "NotebookLM" locally with PDF context
 
-### 🧠 What I’ve built into MLX-LM:
+### 🧠 What I’ve built into MLX nd MLX-LM:
 
 Support for multiple LLM architectures, and training features like:
 
@@ -33,6 +33,7 @@ Support for multiple LLM architectures, and training features like:
   * Support for the Muon optimize (both mlx-lm and mlx),
   * Reporting training metrics to WandB (Weights & Biases)
   * Multiple Optimizers to choose for training
+  * ReLU² activation function in mlx
 
 ## 📚 My Projects
 
