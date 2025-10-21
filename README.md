@@ -23,17 +23,19 @@ Support for multiple LLM architectures, and training features like:
   * Z.ai & THUKEG's GLM4,
   * Rednote dots.llm1,
   * Baisu's Ernie4.5 MoE,
-  * inclusionAI's Bailing MoE e.g. Ling-family,
+  * inclusionAI's Bailing MoE and Bailing MoE Linear e.g. Ling-family and Ling-Linear-family,
   * IBM's Granite MoE,
   * Meituan's LongCat,
   * Nvidia's Nemotron H,
   * Swiss-AI's Apertus,
-  * Allenai's OLMoE,
+  * Allenai's OLMoE and Olmo 3,
   * Full Weight Fine-Tuning,
   * Support for the Muon optimize (both mlx-lm and mlx),
   * Reporting training metrics to WandB (Weights & Biases)
   * Multiple Optimizers to choose for training
   * ReLU² activation function in mlx
+  * AI21 Lab's Jamba
+  * And many more ...
 
 ## 📚 My Projects
 
