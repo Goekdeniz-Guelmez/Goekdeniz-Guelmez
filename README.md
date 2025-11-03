@@ -63,7 +63,7 @@ A Real-Time, Full-Duplex, Multimodal Model that can:
 * Think and act like an autonomous agent with personality
 
 ## 🌱 I’m currently working on...
-- Autonomous Smart home automation using a Real-Time, Multi-Modal-Large-Language-Model. capable text-audio-vision to text-audio (Project J.O.S.I.E.-Home).
+- Autonomous Smart home automation using a Real-Time, Multi-Modal-Large-Language-Action-Model. capable text-audio-vision to text-audio-action (Project J.O.S.I.E.-Home).
 - A secret new ML theorem.
 - My gabliteration Paper
 
