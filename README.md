@@ -8,7 +8,7 @@ I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-example
 
 ### 📦 Creator and Maintainer of:
 
-* [**MLX-Embeddings_LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora.git): Train embedding models natively on Apple Silicon
+* [**MLX-Embeddings-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora.git): Train embedding models natively on Apple Silicon
 * [**MLX-LM-LENS**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lens.git): Abliterate and research the inner thoughs of LLMs
 * [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon
 * [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
