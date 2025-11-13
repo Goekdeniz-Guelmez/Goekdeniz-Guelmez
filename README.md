@@ -6,10 +6,11 @@ Hey, I’m Gökdeniz Gülmez — an ML researcher and engineer. When I’m not b
 
 I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-examples](https://github.com/ml-explore/mlx-examples), [mlx-lm](https://github.com/ml-explore/mlx-lm), and [mlx](https://github.com/ml-explore/mlx), officially acknowledged by the MLX team — check here for [mlx-examples](https://github.com/ml-explore/mlx-examples/blob/main/ACKNOWLEDGMENTS.md), [mlx-lm](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) or [mlx](https://github.com/ml-explore/mlx/blob/main/ACKNOWLEDGMENTS.md) if you don’t believe me.
 
-### 📦 Creator of:
+### 📦 Creator and Maintainer of:
 
+* [**MLX-Embeddings_LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora.git): Train embedding models natively on Apple Silicon
 * [**MLX-LM-LENS**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lens.git): Abliterate and research the inner thoughs of LLMs
-* [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train models natively on Apple Silicon
+* [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon
 * [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
 * [**Local NotebookLM**](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM): Run your own "NotebookLM" locally with PDF context
 
