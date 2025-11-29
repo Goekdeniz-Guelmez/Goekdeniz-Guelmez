@@ -13,6 +13,7 @@ I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-example
 * [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon
 * [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
 * [**Local NotebookLM**](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM): Run your own "NotebookLM" locally with PDF context
+* [**Josiefied Model Family**](https://medium.com/@goekdeniz-guelmez/how-i-built-the-josiefied-models-e6050b8887a8): Creator of the viral Josified models.
 
 ### 🧠 What I’ve built into MLX nd MLX-LM:
 
