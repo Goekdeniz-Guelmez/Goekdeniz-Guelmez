@@ -8,6 +8,7 @@ I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-example
 
 ### 📦 Creator and Maintainer of:
 
+* [**Gabliteration**](https://github.com/Goekdeniz-Guelmez/gabliteration): Automated Gabliteration on any LLM thats supported in Trasnformers (Code for my [Paper](https://arxiv.org/abs/2512.18901)).
 * [**MLX-Embeddings-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora.git): Train embedding models natively on Apple Silicon
 * [**MLX-LM-LENS**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lens.git): Abliterate and research the inner thoughs of LLMs
 * [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon
@@ -67,7 +68,7 @@ A Real-Time, Full-Duplex, Multimodal Model that can:
 ## 🌱 I’m currently working on...
 - Autonomous Smart home automation using a Real-Time, Multi-Modal-Large-Language-Action-Model. capable text-audio-vision to text-audio-action (Project J.O.S.I.E.-Home).
 - A secret new ML theorem.
-- My gabliteration Paper
+- A new Lienar-Dynamic-Mixture-of-Experts-LLM model caled `Josie-Linear`.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
