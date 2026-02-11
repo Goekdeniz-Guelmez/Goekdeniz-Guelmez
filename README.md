@@ -11,7 +11,7 @@ I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-example
 * [**Gabliteration**](https://github.com/Goekdeniz-Guelmez/gabliteration): Automated Gabliteration on any LLM thats supported in Trasnformers (Code for my [Paper](https://arxiv.org/abs/2512.18901)).
 * [**MLX-Embeddings-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora.git): Train embedding models natively on Apple Silicon
 * [**MLX-LM-LENS**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lens.git): Abliterate and research the inner thoughs of LLMs
-* [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon
+* [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon, [example notebooks](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora-example-notebooks)
 * [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
 * [**Local NotebookLM**](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM): Run your own "NotebookLM" locally with PDF context
 * [**Josiefied Model Family**](https://medium.com/@goekdeniz-guelmez/how-i-built-the-josiefied-models-e6050b8887a8): Creator of the viral Josified models.
@@ -74,10 +74,7 @@ A Real-Time, Full-Duplex, Multimodal Model that can:
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goekdeniz-Guelmez&theme=dark&hide_border=True&include_all_commits=True&count_private=True&image_size=auto" /></p>
-
-<br><br>
-
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goekdeniz-Guelmez&&theme=github-compact" alt="Gökdeniz Gülmez's github activity graph"/>
 
 <br><br>
