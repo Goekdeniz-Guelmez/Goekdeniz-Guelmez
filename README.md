@@ -23,7 +23,7 @@ Support for multiple LLM architectures, and training features like:
   * OpenBMB's MiniCPM and MiniCPM3,
   * Kyutai's Helium,
   * State-Space's Mamba v1 and Mamb v2,
-  * Z.ai & THUKEG's GLM4,
+  * Z.ai & THUKEG's GLM, GLM4 and GLM5,
   * Rednote dots.llm1,
   * Baisu's Ernie4.5 MoE,
   * inclusionAI's Bailing MoE and Bailing MoE Linear e.g. Ling-family and Ling-Linear-family,
