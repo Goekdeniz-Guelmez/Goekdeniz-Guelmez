@@ -36,11 +36,10 @@ If my work has saved you GPU bills, unlocked fine-tuning on your Mac, or ended u
 ### 🔥 [mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
 **Train large language models natively on Apple Silicon**
 
-LoRA, QLoRA, and full-precision fine-tuning for LLMs — built on MLX. Supports DPO, GRPO, and custom reward functions. The go-to fine-tuning toolkit for anyone running Apple Silicon.
+LoRA, QLoRA, and full-precision fine-tuning for LLMs — built on MLX. Supports Preference Optimization, RLHF, RL with and custom reward functions. The go-to fine-tuning toolkit for anyone running Apple Silicon.
 
 - Full-precision, LoRA, and QLoRA training modes
-- GRPO reinforcement fine-tuning with custom reward functions
-- DPO dataset generation pipelines
+- 12+ training methods and algorythms
 - WandB integration for training metrics
 - Multiple optimizer support including Muon
 - [Example notebooks](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora-example-notebooks)
