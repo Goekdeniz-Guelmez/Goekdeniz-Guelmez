@@ -27,7 +27,7 @@ If my work has saved you GPU bills, unlocked fine-tuning on your Mac, or ended u
 | [**DynaMoE**](https://arxiv.org/abs/2603.01697) | Dynamic, adaptive Mixture-of-Experts LLM architecture | 2026 |
 | [**JOSIE Models**](https://huggingface.co/collections/Goekdeniz-Guelmez/josie-11) | World's first fully fine-tuned model family trained entirely on Apple Silicon | 2026 |
 | [**JOSIEfied Qwen3 Abliterated Models**](https://huggingface.co/collections/Goekdeniz-Guelmez/josiefied-and-abliterated-qwen3) | Reached **#1 globally** on uncensored benchmarks | 2025 |
-| [**Gabliteration**](https://arxiv.org/abs/2412.06527) | Automated Gabliteration for any Transformers-compatible LLM | 2024 |
+| [**Gabliteration**](https://arxiv.org/abs/2412.06527) | Automated Gabliteration for any Transformers-compatible LLM | 2025 |
  
 ---
 
