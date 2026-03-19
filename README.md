@@ -1,118 +1,165 @@
-# Hello, I'm Gökdeniz Gülmez 👋
+<div align="center">
 
-## 🚀 About Me
+# Gökdeniz Gülmez
 
-Hey, I’m Gökdeniz Gülmez — an ML researcher and engineer. When I’m not building production systems, I’m deep in the MLX ecosystem, contributing to cutting-edge tooling for Apple Silicon.
+**ML Researcher · Open-Source Engineer · Apple Silicon ML Ecosystem**
 
-I'm a contributor to [mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [mlx-examples](https://github.com/ml-explore/mlx-examples), [mlx-lm](https://github.com/ml-explore/mlx-lm), and [mlx](https://github.com/ml-explore/mlx), officially acknowledged by the MLX team — check here for [mlx-examples](https://github.com/ml-explore/mlx-examples/blob/main/ACKNOWLEDGMENTS.md), [mlx-lm](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) or [mlx](https://github.com/ml-explore/mlx/blob/main/ACKNOWLEDGMENTS.md) if you don’t believe me.
+[![GitHub followers](https://img.shields.io/github/followers/Goekdeniz-Guelmez?style=flat&color=000&labelColor=111&logo=github)](https://github.com/Goekdeniz-Guelmez)
+[![arXiv](https://img.shields.io/badge/arXiv-research-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/?searchtype=author&query=G%C3%BClmez)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Goekdeniz-Guelmez)
 
-### 📦 Creator and Maintainer of:
+*Stuttgart, Germany — building the infrastructure that makes local AI actually work.*
 
-* [**Gabliteration**](https://github.com/Goekdeniz-Guelmez/gabliteration): Automated Gabliteration on any LLM thats supported in Trasnformers (Code for my [Paper](https://arxiv.org/abs/2512.18901)).
-* [**MLX-Embeddings-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora.git): Train embedding models natively on Apple Silicon
-* [**MLX-LM-LENS**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lens.git): Abliterate and research the inner thoughs of LLMs
-* [**MLX-LM-LoRA**](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora): Train large language models natively on Apple Silicon, [example notebooks](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora-example-notebooks)
-* [**MLX-KAN**](https://github.com/Goekdeniz-Guelmez/mlx-kan): KANs implemented natively in MLX
-* [**Local NotebookLM**](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM): Run your own "NotebookLM" locally with PDF context
-* [**Josiefied Model Family**](https://medium.com/@goekdeniz-guelmez/how-i-built-the-josiefied-models-e6050b8887a8): Creator of the viral Josified models.
-
-### 🧠 What I’ve built into MLX nd MLX-LM:
-
-Support for multiple LLM architectures, and training features like:
-
-  * OpenBMB's MiniCPM and MiniCPM3,
-  * Kyutai's Helium,
-  * State-Space's Mamba v1 and Mamb v2,
-  * Z.ai & THUKEG's GLM, GLM4 and GLM5,
-  * Rednote dots.llm1,
-  * Baisu's Ernie4.5 MoE,
-  * inclusionAI's Bailing MoE and Bailing MoE Linear e.g. Ling-family and Ling-Linear-family,
-  * IBM's Granite MoE,
-  * Meituan's LongCat,
-  * Nvidia's Nemotron H,
-  * Swiss-AI's Apertus,
-  * Allenai's OLMoE and Olmo 3,
-  * Full Weight Fine-Tuning,
-  * Support for the Muon optimize (both mlx-lm and mlx),
-  * Reporting training metrics to WandB (Weights & Biases)
-  * Multiple Optimizers to choose for training
-  * ReLU² activation function in mlx
-  * AI21 Lab's Jamba
-  * And many more ...
-
-## 📚 My Projects
-
-A mix of serious deep learning research and fun, experimental tools. Expect anything from multimodal LLMs to dataset labeling UIs and decentralized training methods.
-
-## 🎯 My Interests
-
-* 🤖 Artificial & General Intelligence
-* 🧠 Deep Learning, Transformer Architectures, LoRA magic
-* 🎻 Violin — Currently practicing Paganini and Bach
-* 🖌️ Occasionally sketching or doing photography for inspiration
-* 📺 Huge anime fan (yes, I *have* seen *Berserk*)
-
-## 🌱 Currently Building:
-
-### **J.O.S.I.E.-Home** — my vision for an all-in-one personal assistant
-
-A Real-Time, Full-Duplex, Multimodal Model that can:
-
-* Control my smart home (sensors, cameras, LEDs, etc.) autonomously
-* Understand text, images, videos, *and* raw audio (like Whisper + GPT-4o but better)
-* Output natural speech & engage in open-ended, real-time convos
-* Self-update its memory and tools
-* Be fully local, private, and offline-first
-* Think and act like an autonomous agent with personality
-
-## 🌱 I’m currently working on...
-- Autonomous Smart home automation using a Real-Time, Multi-Modal-Large-Language-Action-Model. capable text-audio-vision to text-audio-action (Project J.O.S.I.E.-Home).
-- A secret new ML theorem.
-- A new Lienar-Dynamic-Mixture-of-Experts-LLM model caled `Josie-Linear`.
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<p align="center"> 
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goekdeniz-Guelmez&&theme=github-compact" alt="Gökdeniz Gülmez's github activity graph"/>
-
-<br><br>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br><br>
-
-## My private goal is to create J.O.S.I.E.
-### My own private smart home management Multi-Modal-Large-Language-Model Assistant that can...
-- Autonomously control and manage my Smart home with sensors, cameras, LEDs, and all the other products.
-- Tool calling capabilies.
-- Raw audio input with normal user(s) speech and other sounds like (fire, etc.).
-- Capable of understanding videos and images (e.g. security cameras).
-- Capable of outputting natural assistant audio speech and Text (like GPT4-o).
-- Can be Real-Time and Text only like GPT4-o.
-- Updating itself Autonomously.
-- Having a long-/short-term Memory, and even updating it autonimously.
-- Real-Time-full-duplex-Multi-Modal-Model
-- Starting a conversation by itself (She donsn't need special user and assistant turns).
-- And much more...
+</div>
 
 ---
 
-## 🏆 Certifications
-- Introduction to Deep Learning & Neural Networks with Keras
-- Deep Neural Networks with PyTorch
-- Introduction to Computer Vision and Image Processing
-- Building Deep Learning Models with TensorFlow
-- AI Capstone Project with Deep Learning
-- Machine Learning with Python
-- Computer Science: Algorithms, Theory, and Machines
-- Linear Algebra for Machine Learning and Data Science
-- Probability & Statistics for Machine Learning & Data Science
-- Unsupervised Learning, Recommenders, Reinforcement Learning
-- Advanced Learning Algorithms
-- Supervised Machine Learning: Regression and Classification
-- CompTIA A+
-... 30 others, and counting.
+I build the tools that let researchers and engineers run, train, and understand large language models on their own hardware — specifically Apple Silicon. My work spans core MLX contributions, independent research published on arXiv, and open-source projects used by thousands.
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+If my work has saved you GPU bills, unlocked fine-tuning on your Mac, or ended up in your pipeline — consider [sponsoring](https://github.com/sponsors/Goekdeniz-Guelmez). Everything I build is free, maintained in my spare time, and driven by the belief that capable AI tooling shouldn't require a data center.
 
-❤️ From [Gökdeniz Gülmez](https://github.com/Goekdeniz-Guelmez)
+---
+
+## Research
+| Paper | Description | Year |
+|---|---|---|
+| [**JOSIEfied Qwen3.5 Gabliterated Models**](https://huggingface.co/collections/Goekdeniz-Guelmez/josiefied-qwen35-gabliterated) | Newest iteration of the JOSIEfied model family — now with vision support | 2026 |
+| [**DynaMoE**](https://arxiv.org/abs/2603.01697) | Dynamic, adaptive Mixture-of-Experts LLM architecture | 2026 |
+| [**JOSIE Models**](https://huggingface.co/collections/Goekdeniz-Guelmez/josie-11) | World's first fully fine-tuned model family trained entirely on Apple Silicon | 2026 |
+| [**JOSIEfied Qwen3 Abliterated Models**](https://huggingface.co/collections/Goekdeniz-Guelmez/josiefied-and-abliterated-qwen3) | Reached **#1 globally** on uncensored benchmarks | 2025 |
+| [**Gabliteration**](https://arxiv.org/abs/2412.06527) | Automated Gabliteration for any Transformers-compatible LLM | 2024 |
+ 
+---
+
+## Open-Source Projects
+
+### 🔥 [mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
+**Train large language models natively on Apple Silicon**
+
+LoRA, QLoRA, and full-precision fine-tuning for LLMs — built on MLX. Supports DPO, GRPO, and custom reward functions. The go-to fine-tuning toolkit for anyone running Apple Silicon.
+
+- Full-precision, LoRA, and QLoRA training modes
+- GRPO reinforcement fine-tuning with custom reward functions
+- DPO dataset generation pipelines
+- WandB integration for training metrics
+- Multiple optimizer support including Muon
+- [Example notebooks](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora-example-notebooks)
+
+---
+
+### 🔬 [MLX-LM-LENS](https://github.com/Goekdeniz-Guelmez/mlx-lm-lens)
+**Abliterate and research the inner workings of LLMs**
+
+Interpretability and intervention tooling for language models in MLX. Understand what's happening inside your model, not just what comes out.
+
+---
+
+### 📚 [Local NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM)
+**Your own NotebookLM — fully local, fully private**
+
+PDF-grounded question answering running entirely on-device. No API keys, no cloud, no data leaving your machine.
+
+---
+
+### 🧪 [MLX-Embeddings-LoRA](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora)
+**Fine-tune embedding models natively on Apple Silicon**
+
+Train and adapt embedding models for retrieval, search, and semantic tasks — directly in MLX.
+
+---
+
+### 📐 [MLX-KAN](https://github.com/Goekdeniz-Guelmez/mlx-kan)
+**Kolmogorov-Arnold Networks in MLX**
+
+Native MLX implementation of KANs — a fundamentally different alternative to MLPs, implemented cleanly for Apple Silicon.
+
+---
+
+### 🧬 [Gabliteration](https://github.com/Goekdeniz-Guelmez/gabliteration)
+**Automated abliteration for any Transformers LLM**
+
+Companion code to [arXiv:2412.06527](https://arxiv.org/abs/2412.06527). Remove refusal directions from any model supported in Hugging Face Transformers.
+
+---
+
+### 🤖 [Josiefied Model Family](https://medium.com/@goekdeniz-guelmez/how-i-built-the-josiefied-models-e6050b8887a8)
+A family of fine-tuned models that reached **#1 globally** on relevant benchmarks ([arXiv:2512.18901](https://arxiv.org/abs/2512.18901)).
+
+---
+
+## Contributions to the MLX Ecosystem
+
+I'm an officially acknowledged contributor to the core MLX stack:
+
+- [`ml-explore/mlx`](https://github.com/ml-explore/mlx/blob/main/ACKNOWLEDGMENTS.md) — core framework
+- [`ml-explore/mlx-lm`](https://github.com/ml-explore/mlx-lm/blob/main/ACKNOWLEDGMENTS.md) — language model inference & training
+- [`ml-explore/mlx-examples`](https://github.com/ml-explore/mlx-examples/blob/main/ACKNOWLEDGMENTS.md) — reference implementations
+- [`Blaizzy/mlx-vlm`](https://github.com/Blaizzy/mlx-vlm) — vision-language models
+
+### Architectures I've added to MLX / MLX-LM:
+
+<details>
+<summary>Expand full list</summary>
+
+| Model | Organization |
+|---|---|
+| Mamba v1 & v2 | State Space |
+| MiniCPM & MiniCPM3 | OpenBMB |
+| Helium | Kyutai |
+| GLM, GLM4, GLM5 | Z.ai & THUKEG |
+| dots.llm1 | Rednote |
+| Ernie4.5 MoE | Baidu |
+| Bailing MoE & Bailing MoE Linear (Ling-family) | inclusionAI |
+| Granite MoE | IBM |
+| LongCat | Meituan |
+| Nemotron H | NVIDIA |
+| Apertus | Swiss-AI |
+| OLMoE & OLMo 3 | AllenAI |
+| Jamba | AI21 Labs |
+| And many more... |  |
+
+</details>
+
+### Training features I've contributed:
+
+- Full weight fine-tuning support in mlx-lm
+- Muon optimizer (both mlx and mlx-lm)
+- WandB metric reporting during training
+- Multiple optimizer choices for training runs
+- ReLU² activation function in core MLX
+
+---
+
+## Currently Building
+
+### J.O.S.I.E.-Home
+*A fully local, real-time, full-duplex multimodal assistant for smart home control*
+
+A discrete diffusion language model with a custom tokenizer (ChatML-style format, hardcoded vocabulary covering rooms, devices, properties, and continuous value bins) that can autonomously control and manage a complete smart home environment — sensors, cameras, LEDs, and more. Fully offline. No cloud dependency.
+
+Current focus: training data generation strategies and model architecture validation.
+
+### Josie-Linear
+A new Linear Dynamic Mixture-of-Experts LLM architecture — currently in development.
+
+---
+
+## Support This Work
+
+Everything above — the MLX contributions, the research, the open-source tools — is built in my spare time. If any of it has been useful to you or your team, [sponsoring](https://github.com/sponsors/Goekdeniz-Guelmez) directly funds continued development, faster bug fixes, and new features.
+
+[![Sponsor Gökdeniz](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4%EF%B8%8F-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Goekdeniz-Guelmez)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goekdeniz-Guelmez&theme=github-compact" alt="GitHub activity graph"/>
+</p>
+
+---
+
+<div align="center">
+<sub>Stuttgart, Germany · ML Researcher & Engineer · Apple Silicon AI Tooling</sub>
+</div>
