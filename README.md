@@ -5,7 +5,7 @@
 **ML Researcher · Open-Source Engineer · Apple Silicon ML Ecosystem**
 
 [![GitHub followers](https://img.shields.io/github/followers/Goekdeniz-Guelmez?style=flat&color=000&labelColor=111&logo=github)](https://github.com/Goekdeniz-Guelmez)
-[![arXiv](https://img.shields.io/badge/arXiv-research-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/?searchtype=author&query=G%C3%BClmez)
+[![arXiv](https://img.shields.io/badge/arXiv-research-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/?searchtype=author&query=Gökdeniz+Gülmez)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Goekdeniz-Guelmez)
 
 *Stuttgart, Germany — building the infrastructure that makes local AI actually work.*
