@@ -54,9 +54,9 @@ Interpretability and intervention tooling for language models in MLX. Understand
 ---
 
 ### 📚 [Local NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM)
-**Your own NotebookLM — fully local, fully private**
+**Your own Google's NotebookLM — fully local, fully private**
 
-PDF-grounded question answering running entirely on-device. No API keys, no cloud, no data leaving your machine.
+PDF-grounded audio generation (podcasts, summaries, and many more with up to 6 speakers) running entirely on-device. No API keys, no cloud, no data leaving your machine. As well as a compation native App in [Local NotebookLM-App](https://github.com/Goekdeniz-Guelmez/Local-Notebook-LM-App).
 
 ---
 
