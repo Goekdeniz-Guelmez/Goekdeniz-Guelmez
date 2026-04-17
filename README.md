@@ -67,6 +67,13 @@ Train and adapt embedding models for retrieval, search, and semantic tasks — d
 
 ---
 
+### 📐 [MLX-Benchmark](https://github.com/Goekdeniz-Guelmez/MLX-Benchmark)
+**Benchmark LLMs on Apple MLX framework knowledge and coding tasks.**
+
+MLX Benchmark is the first comprehensive CLI tool and dataset that measures how well large language models understand, write, and debug code for Apple's MLX machine learning framework — covering everything from core array operations to LoRA fine-tuning with mlx-lm, mlx-vlm, and mlx-embeddings.
+
+---
+
 ### 📐 [MLX-KAN](https://github.com/Goekdeniz-Guelmez/mlx-kan)
 **Kolmogorov-Arnold Networks in MLX**
 
