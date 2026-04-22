@@ -72,6 +72,12 @@ Train and adapt embedding models for retrieval, search, and semantic tasks — d
 
 MLX Benchmark is the first comprehensive CLI tool and dataset that measures how well large language models understand, write, and debug code for Apple's MLX machine learning framework — covering everything from core array operations to LoRA fine-tuning with mlx-lm, mlx-vlm, and mlx-embeddings.
 
+
+### [Moshi-FineTune-MLX](https://github.com/Goekdeniz-Guelmez/moshi-finetune-mlx)
+**Moshi-Finetune-MLX lets you fine-tune Moshi (Native, Real-Time, Speech-to-Speech) models all on Apple Silicon.**
+
+Moshi-Finetune-MLX lets you fine-tune Moshi models natively on your Mac with LoRA (Low-Rank Adaptation) or full fine-tuning, with no CUDA or NVIDIA GPU required. Everything runs through Apple's MLX framework, which is optimised for the unified memory architecture of M-series chips.
+
 ---
 
 ### 📐 [MLX-KAN](https://github.com/Goekdeniz-Guelmez/mlx-kan)
