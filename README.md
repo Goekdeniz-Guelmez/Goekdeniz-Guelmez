@@ -58,6 +58,8 @@ Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/m
 
 ![actively maintained](https://img.shields.io/badge/●_actively_maintained-2ea043?style=flat) ![maintained](https://img.shields.io/badge/●_maintained-d29922?style=flat) ![low_activity](https://img.shields.io/badge/●_low_activity-6e7681?style=flat)
 
+**[MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+
 **[mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — LoRA / QLoRA / full fine-tuning on Apple Silicon. 12+ training methods, DPO / GRPO / ORPO / PPO, Muon optimizer, WandB. The go-to fine-tuning toolkit for M-series.
 
 **[mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** *(main trainer maintainer)* ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — Vision-language model training on MLX. Fully rewrote the training backend, added ORPO support.
