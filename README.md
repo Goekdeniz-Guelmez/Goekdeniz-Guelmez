@@ -62,9 +62,9 @@ Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/m
 
 **[MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
 
-**[mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — LoRA / QLoRA / full fine-tuning on Apple Silicon. 12+ training methods, DPO / GRPO / ORPO / PPO, Muon optimizer, WandB. The go-to fine-tuning toolkit for M-series.
+**[MLX-LM-LoRA](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — LoRA / QLoRA / full fine-tuning on Apple Silicon. 12+ training methods, DPO / GRPO / ORPO / PPO, Muon optimizer, WandB. The go-to fine-tuning toolkit for M-series.
 
-**[mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** *(main trainer maintainer)* ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — Vision-language model training on MLX. Fully rewrote the training backend, added ORPO support.
+**[MLX-VLM](https://github.com/Blaizzy/mlx-vlm)** *(main trainer maintainer)* ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — Vision-language model training on MLX. Fully rewrote the training backend, added ORPO support.
 
 **[MLX-Embeddings-LoRA](https://github.com/Goekdeniz-Guelmez/mlx-embeddings-lora)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — Fine-tune embedding models for retrieval and semantic tasks on Apple Silicon.
 
