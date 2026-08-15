@@ -80,42 +80,53 @@ Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/m
 
 **[Gabliteration](https://github.com/Goekdeniz-Guelmez/gabliteration)** ![low_activity](https://img.shields.io/badge/●-6e7681?style=flat) — Companion repo to [arXiv:2412.06527](https://arxiv.org/abs/2412.06527). Remove refusal directions from any HF Transformers model.
 
----
+## JOSIE - Just One Super Intelligent Entity
 
-## JOSIE
+<table>
+<tr>
+<td width="72%" valign="top">
+
+JOSIE is my family of open-weight reasoning language models focused on reasoning, honesty, and efficient local AI. The project combines research, production-ready training infrastructure, developer tooling, and applications into a single ecosystem.
+
+The entire **JOSIE-1/1.1/2** model family was trained and post-trained on **Apple Silicon using MLX** through **MLX-LM-LoRA**, demonstrating that modern LLM training—including SFT, DPO, ORPO, and GRPO—can be performed efficiently on consumer Apple hardware. JOSIE serves as a real-world production validation of **MLX-LM-LoRA**, with every public model released through this pipeline.
+
+The ecosystem currently includes open-weight language models, research papers, Apple Silicon training tooling, local AI applications, and future multimodal systems.
+
+</td>
+
+<td width="28%" align="center" valign="middle">
+
+<img src="1_1_base_orange_no_frame_no_corners.png" width="240" alt="JOSIE Logo">
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 
 <a href="https://josie-model-family.goekdenizguelmez.chatgpt.site/">
-  <img src="https://img.shields.io/badge/🌐_Website-JOSIE-111111?style=flat" />
+<img src="https://img.shields.io/badge/🌐_Website-JOSIE-111111?style=for-the-badge">
 </a>
+
 <a href="https://huggingface.co/josie-labs">
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-josie--labs-FFD21E?style=flat" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-josie--labs-FFD21E?style=for-the-badge">
 </a>
+
 <a href="https://huggingface.co/collections/Goekdeniz-Guelmez/josie-2">
-  <img src="https://img.shields.io/badge/📦_Model_Collection-JOSIE--2-FFD21E?style=flat" />
+<img src="https://img.shields.io/badge/📦_Model_Collection-JOSIE--2-FFD21E?style=for-the-badge">
 </a>
+
 <a href="https://huggingface.co/blog/Goekdeniz-Guelmez/josie-2">
-  <img src="https://img.shields.io/badge/📝_HF_Blog-JOSIE--2-ff6f00?style=flat" />
+<img src="https://img.shields.io/badge/📝_Launch_Blog-Hugging_Face-ff6f00?style=for-the-badge">
 </a>
+
 <a href="https://medium.com/@goekdeniz-guelmez/what-i-learned-building-josie-2-reasoning-honesty-quantization-and-small-models-f31c7669176f">
-  <img src="https://img.shields.io/badge/📖_Medium-Behind_JOSIE--2-12100E?style=flat&logo=medium&logoColor=white" />
+<img src="https://img.shields.io/badge/📖_Behind_JOSIE--2-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
 </p>
 
-**JOSIE** is my family of open-weight reasoning language models and local AI ecosystem. The project spans foundation models, research, training infrastructure, Apple Silicon tooling, applications, and future multimodal systems.
-
-### Ecosystem
-
-- 🌐 **Website:** https://josie-model-family.goekdenizguelmez.chatgpt.site/
-- 🤗 **Hugging Face Organization:** https://huggingface.co/josie-labs
-- 📦 **JOSIE-2 Collection:** https://huggingface.co/collections/Goekdeniz-Guelmez/josie-2
-- 📝 **Hugging Face Launch Blog:** https://huggingface.co/blog/Goekdeniz-Guelmez/josie-2
-- 📖 **Medium Article:** https://medium.com/@goekdeniz-guelmez/what-i-learned-building-josie-2-reasoning-honesty-quantization-and-small-models-f31c7669176f
-
 ---
-
 
 <div align="center">
 
