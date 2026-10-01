@@ -50,7 +50,7 @@ Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/m
 
 | Paper | Notes | Year |
 |---|---|---|
-| [DSLA]([https://github.com/Goekdeniz-Guelmez/DSLA](https://github.com/Goekdeniz-Guelmez/DSLA/blob/main/main.pdf)) | Directional and Similarity-aware Latent Alignment | 2026 |
+| [DSLA](https://github.com/Goekdeniz-Guelmez/DSLA/blob/main/DSLA-paper-draft-9.pdf) | Directional and Similarity-aware Latent Alignment | 2026 |
 | [DynaMoE](https://arxiv.org/abs/2603.01697) | Dynamic adaptive Mixture-of-Experts LLM architecture | 2026 |
 | [Gabliteration](https://arxiv.org/abs/2412.06527) | Automated abliteration for any Transformers-compatible LLM | 2025 |
 
