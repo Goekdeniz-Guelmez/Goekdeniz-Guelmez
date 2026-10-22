@@ -60,6 +60,8 @@ Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/m
 
 ![actively maintained](https://img.shields.io/badge/●_actively_maintained-2ea043?style=flat) ![maintained](https://img.shields.io/badge/●_maintained-d29922?style=flat) ![low_activity](https://img.shields.io/badge/●_low_activity-6e7681?style=flat)
 
+**[JOSIE-Voice](https://github.com/Goekdeniz-Guelmez/JOSIE-Voice)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — A real-time, on-device speech-to-speech voice agent for native Apple Silicon.
+
 **[MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
 
 **[MLX-LM-LoRA](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — LoRA / QLoRA / full fine-tuning on Apple Silicon. 12+ training methods, DPO / GRPO / ORPO / PPO, Muon optimizer, WandB. The go-to fine-tuning toolkit for M-series.
