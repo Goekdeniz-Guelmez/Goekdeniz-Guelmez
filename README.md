@@ -18,7 +18,7 @@
 
 ## MLX Ecosystem Contributions
 
-Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/ml-explore/mlx) · [`mlx-lm`](https://github.com/ml-explore/mlx-lm) · [`mlx-examples`](https://github.com/ml-explore/mlx-examples) · [`mlx-vlm`](https://github.com/Blaizzy/mlx-vlm)
+Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/ml-explore/mlx) · [`mlx-lm`](https://github.com/ml-explore/mlx-lm) · [`mlx-examples`](https://github.com/ml-explore/mlx-examples) · [`mlx-vlm`](https://github.com/Neywa-Labs/mlx-vlm.git)
 
 **Training features added to mlx / mlx-lm:** Full-weight fine-tuning · Muon optimizer · ReLU² activation · WandB reporting · Multi-optimizer support
 
