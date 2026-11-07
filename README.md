@@ -60,7 +60,7 @@ Acknowledged contributor across the core MLX stack: [`mlx`](https://github.com/m
 
 ![actively maintained](https://img.shields.io/badge/●_actively_maintained-2ea043?style=flat) ![maintained](https://img.shields.io/badge/●_maintained-d29922?style=flat) ![low_activity](https://img.shields.io/badge/●_low_activity-6e7681?style=flat)
 
-**[JOSIE-Voice](https://github.com/Goekdeniz-Guelmez/JOSIE-Voice)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — A real-time, on-device speech-to-speech voice agent for native Apple Silicon.
+**[JOSIE](https://github.com/Goekdeniz-Guelmez/JOSIE)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — The local, real-time, full-duplex voice and chat assistant that listens, knows who's speaking, talks back with a natural voice, and takes real action in your Reminders, Calendar, Maps and Messages.
 
 **[MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio)** ![actively maintained](https://img.shields.io/badge/●-2ea043?style=flat) — A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
 
