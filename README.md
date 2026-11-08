@@ -106,7 +106,7 @@ The ecosystem currently includes open-weight language models, research papers, A
 
 <p align="center">
 
-<a href="https://josie-model-family.goekdenizguelmez.chatgpt.site/">
+<a href="https://goekdeniz-guelmez.github.io/JOSIE-Model-Family/">
 <img src="https://img.shields.io/badge/🌐_Website-JOSIE-111111?style=for-the-badge">
 </a>
 
